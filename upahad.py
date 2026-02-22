@@ -1,7 +1,7 @@
 #gift for 9th March 2026
 #Simple code to wish
 import sys
-print("Happy Birhday ! ✨")
+print("Happy Birthday ! ✨")
 
 
 
